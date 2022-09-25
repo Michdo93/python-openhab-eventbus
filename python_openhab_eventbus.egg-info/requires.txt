@@ -1,0 +1,3 @@
+python-openhab-itemevents>=0.1.2
+python-openhab-crud>=0.1.2
+paho-mqtt>=1.6.1
